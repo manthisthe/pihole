@@ -1,5 +1,4 @@
 # AdAway default blocklist
 
-# [163.com]
-127.0.0.1 neti.ee
-127.0.0.1 cnn.com
+neti.ee
+cnn.com
