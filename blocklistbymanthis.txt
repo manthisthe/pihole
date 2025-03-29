@@ -1,4 +1,4 @@
-# AdAway default blocklist
-
-neti.ee
 cnn.com
+www.cnn.com
+edition.cnn.com
+cdn.cnn.com
